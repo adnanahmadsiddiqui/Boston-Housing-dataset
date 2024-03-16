@@ -1,7 +1,5 @@
 # Boston-Housing-dataset
-Python EDA Project
-# Machine Learning Engineer Nanodegree
-# Model Evaluation and Validation
+# Python EDA Project
 ## Project: Predicting Boston Housing Prices
 
 ### Install
